@@ -1,5 +1,4 @@
 # geo_repository
-geo utilities
 
 Geo utilities
 Sao paulo Geojson from:
